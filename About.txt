@@ -1,0 +1,4 @@
+ADMIN
+http://127.0.0.1:8000/admin
+email: peca@onlineshop.com
+password: 123456
